@@ -1,7 +1,7 @@
 # datawin
 
 ## Sources / Further Reading
-* Butterscotch https://github.com/MrPowerGamerBR/Butterscotch
+* Butterscotch https://github.com/ButterscotchRunner/Butterscotch
 * UndertaleModTool https://github.com/UnderminersTeam/UndertaleModTool
 
 ## Licensing
